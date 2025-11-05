@@ -892,10 +892,10 @@ O Android se tornou o sistema operacional móvel mais popular do mundo. Em agost
       year: "2012",
       title: "Nintendo Wii U",
       shortDescription: "Lançado em novembro de 2012, o Wii U apresentou o GamePad com tela sensível ao toque, introduzindo novas formas de interação e marcando a entrada da Nintendo na oitava geração de consoles.",
-      imageCard: "/images/timeline/",
-      imageModal: "/images/timeline/",
-      sourceCard: '<a href="link da imagem">Autor, descrição </a>,',
-      sourceModal: '<a href="link da imagem">Autor, descrição </a>,',
+      imageCard: "/images/timeline/2012-Nintendo_wii_u",
+      imageModal: "/images/timeline/2012-Nintendo_wii_u",
+      sourceCard: '<a href="https://g1.globo.com/tecnologia/noticia/2012/11/nintendo-inaugura-nova-geracao-de-videogames-com-o-wii-u.html">Gustavo Petró, Nintendo inaugura nova geração de videogames com o Wii U </a>,',
+      sourceModal: '<a href="https://g1.globo.com/tecnologia/noticia/2012/11/nintendo-inaugura-nova-geracao-de-videogames-com-o-wii-u.html">Gustavo Petró, Nintendo inaugura nova geração de videogames com o Wii U </a>,',
       category: ["hardware"],
       longDescription: `Lançado em novembro de 2012, o Wii U foi o sucessor do popular Wii, marcando a entrada da Nintendo na oitava geração de consoles. O Wii U se destacou principalmente pelo seu controle inovador, o GamePad, que possuía uma tela sensível ao toque de 6,2 polegadas, permitindo uma nova forma de interação com os jogos, seja para complementar a jogabilidade ou até mesmo para jogar de forma independente da TV.
   O console apresentava gráficos em HD, uma melhoria significativa em relação ao Wii, que usava gráficos padrão. Além disso, o Wii U foi projetado para oferecer uma experiência de jogo mais robusta, com processadores mais rápidos e maior capacidade de armazenamento. Porém, o console enfrentou desafios em termos de adoção de desenvolvedores de jogos e aceitação do mercado, em grande parte devido à confusão em torno de seu nome e à falta de uma linha forte de jogos exclusivos logo no lançamento.
@@ -906,10 +906,10 @@ O Android se tornou o sistema operacional móvel mais popular do mundo. Em agost
       year: "2013",
       title: "Sony PlayStation 4",
       shortDescription: "Lançado em novembro de 2013, o PlayStation 4 focou na performance de jogos, integração online e experiência social, tornando-se um dos consoles mais populares da oitava geração.",
-      imageCard: "/images/timeline/",
-      imageModal: "/images/timeline/",
-      sourceCard: '<a href="link da imagem">Autor, descrição </a>,',
-      sourceModal: '<a href="link da imagem">Autor, descrição </a>,',
+      imageCard: "/images/timeline/2013-PlayStation4",
+      imageModal: "/images/timeline/2013-PlayStation4",
+      sourceCard: '<a href="https://www.playstation.com/pt-br/playstation-history/2013-ps4-ps-vr/">@Google, PlayStation 4 </a>,',
+      sourceModal: '<a href="https://www.playstation.com/pt-br/playstation-history/2013-ps4-ps-vr/">@Google, PlayStation 4 </a>,',
       category: ["hardware"],
       longDescription: `Lançado em novembro de 2013, o PlayStation 4 (PS4) foi o quarto console da Sony na linha PlayStation e sucedeu o PlayStation 3. Com foco principal em desempenho para jogos, o PS4 foi projetado para oferecer uma experiência de jogo superior, com gráficos melhorados, processamento mais rápido e uma maior integração com a internet e redes sociais.
   O PS4 foi equipado com um processador x86-64 AMD Jaguar, uma GPU customizada e 8 GB de memória GDDR5, o que garantiu uma performance gráfica robusta e maior fluidez nas jogadas, superando em vários aspectos o desempenho do seu predecessor, o PS3. A Sony também priorizou o design mais simples e eficiente, com um console menor, mais silencioso e com melhor dissipação de calor.
